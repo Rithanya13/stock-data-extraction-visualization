@@ -18,8 +18,6 @@ This project showcases essential data science skills including:
 
 ## 📊 Sample Visualizations
 
-## 📊 Sample Visualizations
-
 ### Tesla Stock Analysis
 ![Tesla Stock Graph](Tesla%20Stock%20Graph.png)
 *Interactive visualization showing Tesla's historical share price and revenue data*
