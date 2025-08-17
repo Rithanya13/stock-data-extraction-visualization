@@ -19,12 +19,20 @@ This project showcases essential data science skills including:
 ## 📊 Sample Visualizations
 
 ### Tesla Stock Analysis
-![Tesla Stock Graph](tesla_graph.png)
-*Interactive visualization showing Tesla's historical share price and revenue data*
+![Tesla Share Price](tesla_share_price.png)
+*Tesla's historical share price from 2010-2021*
+
+![Tesla Revenue](tesla_revenue.png)
+*Tesla's quarterly revenue data showing growth trends*
 
 ### GameStop Stock Analysis
-![GameStop Stock Graph](gamestop_graph.png)
-*Interactive visualization showing GameStop's historical share price and revenue data*
+![GameStop Share Price](gamestop_share_price.png)
+*GameStop's historical share price with notable 2021 spike*
+
+![GameStop Revenue](gamestop_revenue.png)
+*GameStop's quarterly revenue data with seasonal patterns*
+
+**Note**: These are static screenshots. To view the interactive versions, run the notebook locally.
 
 ## ��️ Technologies Used
 
