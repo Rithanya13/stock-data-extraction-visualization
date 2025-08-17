@@ -16,6 +16,16 @@ This project showcases essential data science skills including:
 - **Data Processing**: Comprehensive data cleaning and preprocessing
 - **Comparative Analysis**: Side-by-side analysis of Tesla and GameStop performance
 
+## 📊 Sample Visualizations
+
+### Tesla Stock Analysis
+![Tesla Stock Graph](tesla_graph.png)
+*Interactive visualization showing Tesla's historical share price and revenue data*
+
+### GameStop Stock Analysis
+![GameStop Stock Graph](gamestop_graph.png)
+*Interactive visualization showing GameStop's historical share price and revenue data*
+
 ## ��️ Technologies Used
 
 - **Python 3.x**
